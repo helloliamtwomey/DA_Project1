@@ -5,10 +5,10 @@ Case & Death Rate
 Group 5
 Rajiv Wickramatne
 Angela Alexander Smith
-Liam Twomey      (Team Members)
+Liam Twomey      
 
 
-Research Problem (Project Background and Description)
+Research Problem 
 Governments around the world have responded to the COVID-19 Pandemic in varied ways, but we don’t know what Government measures where most effective at alleviating the impact the pandemic had on…  Insert
 
 Project Scope (Project Description/Outline) / (Research Questions to Answer)
@@ -91,8 +91,6 @@ Country GDP vs Testing Rate (to ensure no biases in data)
 Exclude outliers from all plots?
 Determine the most relevant data
 
-4) Substantive conclusions
-Written into Read me
 
 Liam - From when the vaccine was deployed… how effective was it… 
 1) Scatter Plot, date and total cases, visualize case spikes. 2) Contrasted with Scatter plot, date and hosp_patients 3) ~ total_deaths_per_million
