@@ -1,35 +1,26 @@
 # DA_Project1
 Exploratory Data Analysis Project 
+
 COVID-19 World Data
+
 Case & Death Rate
+
 Group 5
+
 Rajiv Wickramatne
 Angela Alexander Smith
 Liam Twomey      
 
 
 Research Problem 
-Governments around the world have responded to the COVID-19 Pandemic in varied ways, but we don’t know what Government measures where most effective at alleviating the impact the pandemic had on…  Insert
+Governments around the world have responded to the COVID-19 Pandemic in varied ways, but we don’t know what Government measures and living situations where most effective at alleviating the impact the pandemic had. 
 
-Project Scope (Project Description/Outline) / (Research Questions to Answer)
-
-Quantitative Research Process - Deductive Method (vs Inductive) Insert teams hypothesis
-Start with a broad theory based on existing research -> come up with a hypothesis -> test the hypothesis using data. Perform research design to ensure results are valid. 
-
-Raj. - stronger measures taken by governments should have reduced the spread rate within their country. Respectively lessen death rates, hospitalization rates.
-
-Ang. - Countries with lower GDP’s, reduced medical services (eg Hospital beds) and a lower life expectancy will show a higher rate of COVID rated deaths.
-
-Liam - 
-From when the vaccine was deployed how effective was it at reducing the spread of COVID-19. 
-
-Data Set (Datasets to Be Used)
+Data Set 
 Owid-covid-data.csv
 
 Time Line 
 Review / DeBug
 Monday 15/08/22
-Initialise bonus task
 Tuesday 16/08/22
 Finalise 
 Wednesday 17/08/22
@@ -44,10 +35,10 @@ Rajiv - Government stringency measures (by index rate) and the effect it has had
 Considerations - Data used should be before vaccinations were introduced to eliminate vaccine caused reductions in Covid related deaths/hospitalisations/cases
 
 Rough hypothesis - stronger measures taken by governments should have reduced the spread rate within their country. Respectively lessen death rates, hospitalization rates.
-# 
+
 	
 Data:
-	Stringency_index:
+Stringency_index:
 
 
 Government Response Stringency Index: composite measure based on 9 response indicators including school closures, workplace closures, and travel bans, rescaled to a value from 0 to 100 (100 = strictest response)
