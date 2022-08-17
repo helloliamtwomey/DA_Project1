@@ -88,6 +88,7 @@ total_cases
 Total confirmed cases of COVID-19. Counts can include probable cases, where reported.
 
 Observations / Commentary on Trends Observed:
+
 As expected we see a positive correlation between the Country GDP & Life expectancy as well as GDP vs Hospital Beds per Thousand. However looking at the data plotting Country Death Rate vs GDP we are not seeing the negative correlation that what was expected as per the hypothesis that you would see higher death rate in less developed coiuntries. We must however note that the data is limited by the accurate reporting from less developed countries on the death rate related to COVID-19. Following this we elected to review how the the aging populations in countries with higher GDP's (and therefore higher life expectancy) impacted the death rate in these countries. What we see is the death rate has a strong positive correlation in the aging population which could lend to the observation that the age of the population is the stronger contibuiting factor to death rate rather than COVID-19. 
 
 
