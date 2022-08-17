@@ -18,17 +18,8 @@ Governments around the world have responded to the COVID-19 Pandemic in varied w
 Data Set 
 Owid-covid-data.csv
 
-Time Line 
-Review / DeBug
-Monday 15/08/22
-Tuesday 16/08/22
-Finalise 
-Wednesday 17/08/22
-Due 
-Thursday 18/08/22
 
-
-Project Breakdown (Rough Breakdown of Tasks)
+Project Breakdown 
 
 Rajiv - Government stringency measures (by index rate) and the effect it has had on death rates, new case rates, etc. This view is to identify the affect on spread and causality rates as policies were put in place by governments to actively reduce the impact of Covid on the health of their citizens. This topic is highly discussed as the cost of implementing these control measures came at the expense of the economy. 
 
@@ -95,6 +86,11 @@ hosp_patients
 Number of COVID-19 patients in hospital on a given day
 total_cases
 Total confirmed cases of COVID-19. Counts can include probable cases, where reported.
+
+Observations / Commentary on Trends Observed:
+As expected we see a positive correlation between the Country GDP & Life expectancy as well as GDP vs Hospital Beds per Thousand. However looking at the data plotting Country Death Rate vs GDP we are not seeing the negative correlation that what was expected as per the hypothesis that you would see higher death rate in less developed coiuntries. We must however note that the data is limited by the accurate reporting from less developed countries on the death rate related to COVID-19. Following this we elected to review how the the aging populations in countries with higher GDP's (and therefore higher life expectancy) impacted the death rate in these countries. What we see is the death rate has a strong positive correlation in the aging population which could lend to the observation that the age of the population is the stronger contibuiting factor to death rate rather than COVID-19. 
+
+
 
 
 
