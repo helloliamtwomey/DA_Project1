@@ -99,7 +99,10 @@ Its evident that as governments around the world increased their stringency meas
 
 How did the availability of vaccinations influence the trends in COVID-19 case numbers and deaths?
 
-Observed in Nigeria and the United States, trend clusters in covid cases and covid mortality did not replicate the heights observed during trend clusters preceding the vaccine availably post vaccine availability. Contrary to the observed trend clusters, Nigeria presented a pair of sharp vertical movements for covid deaths in September 2021, and a similar movement for covid cases in December-January 2021.
+Observed in Nigeria and the United States, post vaccine trend clusters for covid cases and covid deaths did not replicate the cluster trend heights observed prior to vaccine availably.
+Contrary to what was observed in the trend clusters, Nigeria showed a pair of sharp vertical movements post vaccine.  A sharp vertical spike in covid deaths is seen September 2021, and a similar movement spike in covid cases during December 2020 -January 2021,  both surpassing prior trends.
+Similarly, the United States did also see their post vaccine covid cases trend surpass the hight of the prior covid cases trend. However, the covid mortality trend hight was less than the covid mortality trend prior to vaccine availability.
+Looking at Australia, the trends are condensed from August 2021, reflecting more-so the impact travel restrictions had mitigating the exposure Australia had to COVID-19.
 
 
 
