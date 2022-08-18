@@ -18,7 +18,6 @@ Governments around the world have responded to the COVID-19 Pandemic in varied w
 Data Set 
 Owid-covid-data.csv
 
-
 Project Breakdown 
 
 Rajiv - Government stringency measures (by index rate) and the effect it has had on death rates, new case rates, etc. This view is to identify the affect on spread and causality rates as policies were put in place by governments to actively reduce the impact of Covid on the health of their citizens. This topic is highly discussed as the cost of implementing these control measures came at the expense of the economy. 
@@ -27,10 +26,8 @@ Considerations - Data used should be before vaccinations were introduced to elim
 
 Rough hypothesis - stronger measures taken by governments should have reduced the spread rate within their country. Respectively lessen death rates, hospitalization rates.
 
-	
 Data:
 Stringency_index:
-
 
 Government Response Stringency Index: composite measure based on 9 response indicators including school closures, workplace closures, and travel bans, rescaled to a value from 0 to 100 (100 = strictest response)
 	
@@ -40,7 +37,10 @@ Possibly include reproduction_rate (infectious rate of COVID)
 https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3581633
 
 Test:
-	Scatter plot stringency index vs deaths,  stringency index vs new cases
+To identify the effect stringency policy as had on covid-19, we can look into the way it impacts new case rates. We will first need to calculate the change of rate in new cases, then categories this data per range of stringency rating. 
+By doing so we will observe the net effect of each range of stringency ratings on the rate of change in new cases. 
+
+By observing the correlation of stringency measures VS the rate of change in new cases, we can identify the overall trend. To further our trend, by displaying the count of days within the ranges of stringency, we can gain a visual idea of how that government acted on their stringency policy. We can gain insights into the style, or approach taken, with stringency measure and hopefully identify some stand out countries.
 
 
 
