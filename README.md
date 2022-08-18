@@ -95,7 +95,7 @@ As expected we see a positive correlation between the Country GDP & Life expecta
 
 How did the stringency of the measures enforced by the Government impact the spread of COVID-19 pre vaccination measures?
 
-Its evident that as governments around the world increased their stringency measures, the rate at which new cases grew decreased. Countries who spent more time in lower stringency ranges showcased that their small time in higher stringency ranges proved impactful, Nigeria leading this example.
+Its evident that as governments around the world increased their stringency measures, the rate at which new cases grew decreased. Countries who spent more time in medium stringency ranges showcased that their small time in higher stringency ranges proved impactful, Nigeria leading this example. This research can help us locate some stand out countries whom then can be further be researched to uncover what other factors assisted the their stringency implemental polcies.
 
 How did the availability of vaccinations influence the trends in COVID-19 case numbers and deaths?
 
