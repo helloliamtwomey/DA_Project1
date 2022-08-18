@@ -98,6 +98,7 @@ How did the stringency of the measures enforced by the Government impact the spr
 Its evident that as governments around the world increased their stringency measures, the rate at which new cases grew decreased. Countries who spent more time in lower stringency ranges showcased that their small time in higher stringency ranges proved impactful, Nigeria leading this example.
 
 How did the availability of vaccinations influence the trends in COVID-19 case numbers and deaths?
+
 Observed in Nigeria and the United States, trend clusters in covid cases and covid mortality did not replicate the heights observed during trend clusters preceding the vaccine availably post vaccine availability. Contrary to the observed trend clusters, Nigeria presented a pair of sharp vertical movements for covid deaths in September 2021, and a similar movement for covid cases in December-January 2021.
 
 
