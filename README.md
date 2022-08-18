@@ -96,7 +96,8 @@ As expected we see a positive correlation between the Country GDP & Life expecta
 How did the stringency of the measures enforced by the Government impact the spread of COVID-19 pre vaccination measures?
 
 
-How effective was the deployment of vaccinations in influencing COVID-19 case numbers and deaths?
+How did the availability of vaccinations influence the trends in COVID-19 case numbers and deaths
+
 
 
 
